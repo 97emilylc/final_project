@@ -13,5 +13,5 @@ After this file directory has been established then the code will run and downlo
 
 _____________________________
 
-Included in the files will be two Juypter Notebook files, one is Final Project - SUBMITTED and the other is Final Project - LATE because I wanted to make additional comments and changes to the code just after the deadline. I wanted to be clear that there is a version that is submitted by the deadline but that I wanted to make occasional cosmetic changes.
+Included in the files there will likely be two Juypter Notebook files, one is Final Project - SUBMITTED and the other is Final Project - LATE because I wanted to make additional comments and changes to the code just after the deadline. I wanted to be clear that there is a version that is submitted by the deadline but that I wanted to make occasional cosmetic changes.
 
